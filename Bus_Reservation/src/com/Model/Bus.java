@@ -54,5 +54,5 @@ public class Bus {
 	public void setTotal_seats(int total_seats) {
 		this.total_seats = total_seats;
 	}
-	
+	//
 }
